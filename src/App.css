@@ -4,6 +4,7 @@ body {
   background-color: black;
 }
 
+
 .App {
   font-family: "PermanentMarker-Regular, Permanent Marker";
 }
@@ -40,4 +41,5 @@ body {
 h1 {
   text-align: center;
   color: white;
+  font-family: "Permanent Marker";
 }
