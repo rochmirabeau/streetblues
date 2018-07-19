@@ -1,0 +1,29 @@
+collect assets
+convert animation to react
+navbar
+render members
+  json objects
+    ex
+      [
+        {
+          name: "Rey Murf",
+          pic: "../assets/rey.jpg",
+          facebook: "https://www.facebook.com/reymurf",
+          instagram: "https://www.instagram.com/reymurf",
+        },
+
+      ]
+
+      edit
+  logo: crop, center, scale
+  group: 
+
+tour: modal "Tour info coming soon!"
+Group Members: cards on hover
+Contact:  Footer Modal with email and social
+
+card header with group background
+
+navbar
+
+cards with quotesjkj
