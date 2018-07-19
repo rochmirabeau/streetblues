@@ -13,7 +13,7 @@ class App extends Component {
       </Row>
       <Row >
       <Col s={10}>
-      <Navbar class="Navbar" className="black" brand='welcome to the Family' right>
+      <Navbar className="black" brand='welcome to the Family' right>
       <img src={logo} className="App-logo" alt="logo" />
       <NavItem >
       <Modal
@@ -37,13 +37,13 @@ class App extends Component {
 
       <Row>
       <Col s={12} m={4}>
-      <Button className='purple' waves='light' href='mailto:streetbluesfamilyoficl@gmail.com'>Email</Button>
+      <Button className='purple' waves='light' node="a" href='mailto:streetbluesfamilyoficl@gmail.com'>Email</Button>
       </Col>
       <Col s={12} m={4}>
-      <Button className='purple' waves='light' href='https://www.facebook.com/streetbluesfam'>Facebook</Button>
+      <Button className='purple' waves='light' node="a" href='https://www.facebook.com/streetbluesfam'>Facebook</Button>
       </Col>
       <Col s={4} m={4}>
-      <Button className='purple' waves='light' href='https://www.instagram.com/streetbluesfamilyofficial'>Instagram</Button>
+      <Button className='purple' waves='light' node="a" href='https://www.instagram.com/streetbluesfamilyofficial'>Instagram</Button>
       </Col>
       </Row>
       </Modal> 
