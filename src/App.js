@@ -13,7 +13,7 @@ class App extends Component {
       </Row>
       <Row >
       <Col s={10}>
-      <Navbar class="Navbar" className="black" brand='welcome to the Family' right>
+      <Navbar className="black" brand='welcome to the Family' right>
       <img src={logo} className="App-logo" alt="logo" />
       <NavItem >
       <Modal
